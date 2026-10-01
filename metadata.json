@@ -1,0 +1,8 @@
+{
+  "name": "Resource Management Tool (RMT)",
+  "description": "Enterprise Resource Management Tool for team capacity planning, project tracking, workload balancing, and deliverable execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
